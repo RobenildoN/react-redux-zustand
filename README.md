@@ -133,6 +133,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 <div align="center">
   <p>Feito com 💜 pela <a href="https://rocketseat.com.br/">Rocketseat</a></p>
-  <p>Desenvolvido durante o Bootcamp GoStack</p>
 </div>
 
