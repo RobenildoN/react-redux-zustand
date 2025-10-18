@@ -1,17 +1,10 @@
-import { Provider as ReduxProviver } from "react-redux";
 import './styles/global.css'
 
+import { Player } from "./pages/Player"
 
-
-import { store } from "./store";
-import { Player } from "./pages/Player";
-
-function App() {
+export function App() {
   return (
-    <ReduxProviver store={store}>
-<Player />
-    </ReduxProviver>
-  );
+    <Player />
+  )
 }
 
-export default App;
