@@ -46,12 +46,13 @@ yarn install
 ### Executando o Projeto
 
 ```bash
-npm start
+npm run server #inicia o servidor de desenvolvimento json server porta http://localhost:3000/
+npm run dev    #inicia site porta  http://localhost:5173/
 # ou
 yarn start
 ```
 
-Abra [http://localhost:3000](http://localhost:3000) para visualizar no navegador.
+Abra [http://localhost:5173](http://localhost:5173) para visualizar no navegador.
 
 ## 📂 Estrutura do Projeto
 
